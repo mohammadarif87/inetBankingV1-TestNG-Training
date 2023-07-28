@@ -1,0 +1,568 @@
+2020-08-10 13:54:41,820 - ebanking -INFO - URL is opened
+2020-08-10 13:54:41,886 - ebanking -INFO - Privacy Error present
+2020-08-10 13:54:41,992 - ebanking -INFO - Advanced is clicked
+2020-08-10 13:54:43,582 - ebanking -INFO - Proceed is clicked
+2020-08-10 13:54:44,658 - ebanking -INFO - Entered username
+2020-08-10 13:54:44,808 - ebanking -INFO - Entered password
+2020-08-10 13:54:45,933 - ebanking -INFO - Submit is clicked
+2020-08-10 13:54:45,951 - ebanking -INFO - Login test passed
+2020-08-10 13:54:45,959 - ebanking -INFO - Page Title is correct
+2020-08-10 17:16:51,598 - ebanking -INFO - URL is opened
+2020-08-10 17:16:51,666 - ebanking -INFO - Privacy Error present
+2020-08-10 17:16:51,761 - ebanking -INFO - Advanced is clicked
+2020-08-10 17:16:53,315 - ebanking -INFO - Proceed is clicked
+2020-08-10 17:16:53,932 - ebanking -INFO - Entered username
+2020-08-10 17:16:54,058 - ebanking -INFO - Entered password
+2020-08-10 17:16:54,770 - ebanking -INFO - Submit is clicked
+2020-08-10 17:16:54,790 - ebanking -INFO - Page Title is correct
+2020-08-10 17:16:54,793 - ebanking -INFO - Login test passed
+2020-08-11 09:27:09,407 - ebanking -INFO - URL is opened
+2020-08-11 09:27:09,478 - ebanking -INFO - Privacy Error present
+2020-08-11 09:27:09,586 - ebanking -INFO - Advanced is clicked
+2020-08-11 09:27:11,067 - ebanking -INFO - Proceed is clicked
+2020-08-11 09:27:11,673 - ebanking -INFO - Entered username
+2020-08-11 09:27:11,794 - ebanking -INFO - Entered password
+2020-08-11 09:27:12,515 - ebanking -INFO - Submit is clicked
+2020-08-11 09:27:12,533 - ebanking -INFO - Page Title is correct
+2020-08-11 09:27:12,537 - ebanking -INFO - Login test passed
+2020-08-11 09:30:20,868 - ebanking -INFO - URL is opened
+2020-08-11 09:30:23,053 - ebanking -INFO - Browser is fullscreen
+2020-08-11 09:30:23,108 - ebanking -INFO - Privacy Error present
+2020-08-11 09:30:23,241 - ebanking -INFO - Advanced is clicked
+2020-08-11 09:30:24,962 - ebanking -INFO - Proceed is clicked
+2020-08-11 09:30:26,015 - ebanking -INFO - Entered username
+2020-08-11 09:30:26,197 - ebanking -INFO - Entered password
+2020-08-11 09:30:26,976 - ebanking -INFO - Submit is clicked
+2020-08-11 09:30:27,225 - ebanking -INFO - Page Title is correct
+2020-08-11 09:30:27,229 - ebanking -INFO - Login test passed
+2020-08-11 09:31:12,665 - ebanking -INFO - URL is opened
+2020-08-11 09:31:14,833 - ebanking -INFO - Browser is maximized
+2020-08-11 09:31:14,887 - ebanking -INFO - Privacy Error present
+2020-08-11 09:31:15,029 - ebanking -INFO - Advanced is clicked
+2020-08-11 09:31:16,931 - ebanking -INFO - Proceed is clicked
+2020-08-11 09:31:17,072 - ebanking -INFO - Entered username
+2020-08-11 09:31:17,192 - ebanking -INFO - Entered password
+2020-08-11 09:31:18,374 - ebanking -INFO - Submit is clicked
+2020-08-11 09:31:18,618 - ebanking -INFO - Page Title is correct
+2020-08-11 09:31:18,623 - ebanking -INFO - Login test passed
+2020-08-11 10:13:01,929 - ebanking -INFO - URL is opened
+2020-08-11 10:13:04,070 - ebanking -INFO - Browser is maximized
+2020-08-11 10:13:04,126 - ebanking -INFO - Privacy Error present
+2020-08-11 10:13:04,274 - ebanking -INFO - Advanced is clicked
+2020-08-11 10:13:05,927 - ebanking -INFO - Proceed is clicked
+2020-08-11 10:13:06,193 - ebanking -INFO - Entered username
+2020-08-11 10:13:06,879 - ebanking -INFO - Entered password
+2020-08-11 10:13:08,089 - ebanking -INFO - Submit is clicked
+2020-08-11 10:13:08,105 - ebanking -INFO - Page Title is correct
+2020-08-11 10:13:08,109 - ebanking -INFO - Login test passed
+2020-08-11 10:16:26,623 - ebanking -INFO - URL is opened
+2020-08-11 10:16:26,651 - ebanking -INFO - Browser is maximized
+2020-08-11 10:23:35,859 - ebanking -INFO - URL is opened
+2020-08-11 10:23:35,886 - ebanking -INFO - Browser is maximized
+2020-08-11 10:24:36,248 - ebanking -INFO - URL is opened
+2020-08-11 10:24:36,275 - ebanking -INFO - Browser is maximized
+2020-08-11 10:25:14,403 - ebanking -INFO - URL is opened
+2020-08-11 10:25:14,431 - ebanking -INFO - Browser is maximized
+2020-08-11 10:25:40,983 - ebanking -INFO - URL is opened
+2020-08-11 10:25:41,012 - ebanking -INFO - Browser is maximized
+2020-08-11 10:29:41,777 - ebanking -INFO - URL is opened
+2020-08-11 10:29:41,808 - ebanking -INFO - Browser is maximized
+2020-08-11 10:35:45,664 - ebanking -INFO - URL is opened
+2020-08-11 10:35:45,692 - ebanking -INFO - Browser is maximized
+2020-08-11 10:59:52,064 - ebanking -INFO - URL is opened
+2020-08-11 10:59:52,089 - ebanking -INFO - Browser is maximized
+2020-08-11 11:01:23,482 - ebanking -INFO - URL is opened
+2020-08-11 11:01:23,506 - ebanking -INFO - Browser is maximized
+2020-08-11 11:04:08,264 - ebanking -INFO - URL is opened
+2020-08-11 11:04:08,290 - ebanking -INFO - Browser is maximized
+2020-08-11 11:06:00,433 - ebanking -INFO - URL is opened
+2020-08-11 11:06:00,457 - ebanking -INFO - Browser is maximized
+2020-08-11 11:15:32,823 - ebanking -INFO - URL is opened
+2020-08-11 11:15:32,847 - ebanking -INFO - Browser is maximized
+2020-08-11 11:23:08,955 - ebanking -INFO - URL is opened
+2020-08-11 11:23:08,980 - ebanking -INFO - Browser is maximized
+2020-08-11 11:23:42,402 - ebanking -INFO - Entered username
+2020-08-11 11:23:43,181 - ebanking -INFO - Entered password
+2020-08-11 11:23:44,164 - ebanking -INFO - Submit is clicked
+2020-08-11 11:25:14,181 - ebanking -INFO - URL is opened
+2020-08-11 11:25:14,206 - ebanking -INFO - Browser is maximized
+2020-08-11 11:30:36,516 - ebanking -INFO - URL is opened
+2020-08-11 11:30:36,540 - ebanking -INFO - Browser is maximized
+2020-08-11 11:31:22,761 - ebanking -INFO - URL is opened
+2020-08-11 11:31:22,785 - ebanking -INFO - Browser is maximized
+2020-08-11 11:33:18,699 - ebanking -INFO - URL is opened
+2020-08-11 11:33:18,725 - ebanking -INFO - Browser is maximized
+2020-08-11 11:42:39,131 - ebanking -INFO - URL is opened
+2020-08-11 11:42:39,155 - ebanking -INFO - Browser is maximized
+2020-08-11 11:42:39,613 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 11:42:40,526 - ebanking -INFO - More information is clicked
+2020-08-11 11:49:40,929 - ebanking -INFO - URL is opened
+2020-08-11 11:49:40,954 - ebanking -INFO - Browser is maximized
+2020-08-11 11:49:41,420 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 11:49:42,339 - ebanking -INFO - More information is clicked
+2020-08-11 11:50:19,214 - ebanking -INFO - URL is opened
+2020-08-11 11:50:19,243 - ebanking -INFO - Browser is maximized
+2020-08-11 11:50:41,631 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 11:50:42,557 - ebanking -INFO - More information is clicked
+2020-08-11 11:56:09,986 - ebanking -INFO - URL is opened
+2020-08-11 11:56:10,012 - ebanking -INFO - Browser is maximized
+2020-08-11 11:56:10,510 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 11:56:11,294 - ebanking -INFO - More information is clicked
+2020-08-11 11:57:09,074 - ebanking -INFO - URL is opened
+2020-08-11 11:57:09,099 - ebanking -INFO - Browser is maximized
+2020-08-11 11:57:09,562 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 11:57:10,350 - ebanking -INFO - More information is clicked
+2020-08-11 11:58:17,369 - ebanking -INFO - URL is opened
+2020-08-11 11:58:17,394 - ebanking -INFO - Browser is maximized
+2020-08-11 11:58:17,875 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 11:58:18,648 - ebanking -INFO - More information is clicked
+2020-08-11 12:02:25,389 - ebanking -INFO - URL is opened
+2020-08-11 12:02:25,417 - ebanking -INFO - Browser is maximized
+2020-08-11 12:02:25,916 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:04:05,668 - ebanking -INFO - URL is opened
+2020-08-11 12:04:05,694 - ebanking -INFO - Browser is maximized
+2020-08-11 12:04:06,153 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:04:23,014 - ebanking -INFO - URL is opened
+2020-08-11 12:04:23,043 - ebanking -INFO - Browser is maximized
+2020-08-11 12:04:23,505 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:07:39,196 - ebanking -INFO - URL is opened
+2020-08-11 12:07:39,223 - ebanking -INFO - Browser is maximized
+2020-08-11 12:07:39,711 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:08:25,360 - ebanking -INFO - URL is opened
+2020-08-11 12:08:25,386 - ebanking -INFO - Browser is maximized
+2020-08-11 12:08:25,882 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:13:20,442 - ebanking -INFO - URL is opened
+2020-08-11 12:13:20,470 - ebanking -INFO - Browser is maximized
+2020-08-11 12:13:20,957 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:14:44,212 - ebanking -INFO - URL is opened
+2020-08-11 12:14:44,240 - ebanking -INFO - Browser is maximized
+2020-08-11 12:14:44,750 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:15:37,314 - ebanking -INFO - URL is opened
+2020-08-11 12:15:37,341 - ebanking -INFO - Browser is maximized
+2020-08-11 12:15:37,844 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:18:00,783 - ebanking -INFO - URL is opened
+2020-08-11 12:18:00,810 - ebanking -INFO - Browser is maximized
+2020-08-11 12:18:01,325 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:21:17,782 - ebanking -INFO - URL is opened
+2020-08-11 12:21:17,808 - ebanking -INFO - Browser is maximized
+2020-08-11 12:21:18,305 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:21:47,464 - ebanking -INFO - More information is clicked
+2020-08-11 12:22:07,495 - ebanking -INFO - Go on to the webpage (not recommended) is clicked
+2020-08-11 12:22:42,421 - ebanking -INFO - URL is opened
+2020-08-11 12:22:42,446 - ebanking -INFO - Browser is maximized
+2020-08-11 12:22:42,943 - ebanking -INFO - Site isn't secure Error present
+2020-08-11 12:23:56,096 - ebanking -INFO - URL is opened
+2020-08-11 12:23:58,260 - ebanking -INFO - Browser is maximized
+2020-08-11 12:23:58,324 - ebanking -INFO - Privacy Error present
+2020-08-11 12:23:58,455 - ebanking -INFO - Advanced is clicked
+2020-08-11 12:24:00,027 - ebanking -INFO - Proceed is clicked
+2020-08-11 12:24:00,869 - ebanking -INFO - Entered username
+2020-08-11 12:24:00,987 - ebanking -INFO - Entered password
+2020-08-11 12:24:01,624 - ebanking -INFO - Submit is clicked
+2020-08-11 12:24:01,683 - ebanking -INFO - Page Title is correct
+2020-08-11 12:24:01,687 - ebanking -INFO - Login test passed
+2020-08-11 12:24:28,036 - ebanking -INFO - URL is opened
+2020-08-11 12:24:28,074 - ebanking -INFO - Browser is maximized
+2020-08-11 12:25:20,058 - ebanking -INFO - URL is opened
+2020-08-11 12:25:20,116 - ebanking -INFO - Browser is maximized
+2020-08-11 12:36:53,506 - ebanking -INFO - URL is opened
+2020-08-11 12:36:53,527 - ebanking -INFO - Browser is maximized
+2020-08-11 12:38:19,977 - ebanking -INFO - URL is opened
+2020-08-11 12:38:19,995 - ebanking -INFO - Browser is maximized
+2020-08-11 12:40:37,520 - ebanking -INFO - URL is opened
+2020-08-11 12:40:37,538 - ebanking -INFO - Browser is maximized
+2020-08-11 12:41:11,398 - ebanking -INFO - URL is opened
+2020-08-11 12:41:11,421 - ebanking -INFO - Browser is maximized
+2020-08-11 12:43:31,960 - ebanking -INFO - URL is opened
+2020-08-11 12:43:31,981 - ebanking -INFO - Browser is maximized
+2020-08-11 12:48:19,277 - ebanking -INFO - URL is opened
+2020-08-11 12:48:19,319 - ebanking -INFO - Browser is maximized
+2020-08-11 12:49:16,948 - ebanking -INFO - URL is opened
+2020-08-11 12:49:16,973 - ebanking -INFO - Browser is maximized
+2020-08-11 12:50:39,546 - ebanking -INFO - URL is opened
+2020-08-11 12:50:39,572 - ebanking -INFO - Browser is maximized
+2020-08-11 12:59:42,510 - ebanking -INFO - URL is opened
+2020-08-11 12:59:42,533 - ebanking -INFO - Browser is maximized
+2020-08-11 13:00:27,163 - ebanking -INFO - URL is opened
+2020-08-11 13:00:27,187 - ebanking -INFO - Browser is maximized
+2020-08-11 13:01:20,700 - ebanking -INFO - URL is opened
+2020-08-11 13:01:20,754 - ebanking -INFO - Browser is maximized
+2020-08-11 13:02:04,185 - ebanking -INFO - URL is opened
+2020-08-11 13:02:04,213 - ebanking -INFO - Browser is maximized
+2020-08-11 13:03:34,275 - ebanking -INFO - URL is opened
+2020-08-11 13:03:34,298 - ebanking -INFO - Browser is maximized
+2020-08-11 13:07:19,892 - ebanking -INFO - URL is opened
+2020-08-11 13:07:19,941 - ebanking -INFO - Browser is maximized
+2020-08-11 13:08:07,925 - ebanking -INFO - URL is opened
+2020-08-11 13:08:07,950 - ebanking -INFO - Browser is maximized
+2020-08-11 13:18:15,787 - ebanking -INFO - URL is opened
+2020-08-11 13:18:15,836 - ebanking -INFO - Browser is maximized
+2020-08-11 13:18:15,977 - ebanking -INFO - Entered username
+2020-08-11 13:18:16,018 - ebanking -INFO - Entered password
+2020-08-11 13:18:16,297 - ebanking -INFO - Submit is clicked
+2020-08-11 13:19:45,874 - ebanking -INFO - URL is opened
+2020-08-11 13:19:45,895 - ebanking -INFO - Browser is maximized
+2020-08-11 13:20:06,322 - ebanking -INFO - Entered username
+2020-08-11 13:20:08,996 - ebanking -INFO - Entered password
+2020-08-11 13:20:43,030 - ebanking -INFO - Submit is clicked
+2020-08-11 13:20:56,429 - ebanking -INFO - Page Title is correct
+2020-08-11 13:20:59,983 - ebanking -INFO - Login test passed
+2020-08-11 13:21:44,894 - ebanking -INFO - URL is opened
+2020-08-11 13:21:44,911 - ebanking -INFO - Browser is maximized
+2020-08-11 13:21:45,033 - ebanking -INFO - Entered username
+2020-08-11 13:21:45,092 - ebanking -INFO - Entered password
+2020-08-11 13:21:45,593 - ebanking -INFO - Submit is clicked
+2020-08-11 13:21:46,603 - ebanking -INFO - Page Title is correct
+2020-08-11 13:21:46,607 - ebanking -INFO - Login test passed
+2020-08-11 13:37:45,385 - ebanking -INFO - URL is opened
+2020-08-11 13:37:47,565 - ebanking -INFO - Browser is maximized
+2020-08-11 13:37:47,615 - ebanking -INFO - Privacy Error present
+2020-08-11 13:37:47,746 - ebanking -INFO - Advanced is clicked
+2020-08-11 13:37:49,383 - ebanking -INFO - Proceed is clicked
+2020-08-11 13:37:50,001 - ebanking -INFO - Entered username
+2020-08-11 13:37:50,161 - ebanking -INFO - Entered password
+2020-08-11 13:37:51,249 - ebanking -INFO - Submit is clicked
+2020-08-11 13:37:52,297 - ebanking -INFO - Page Title is correct
+2020-08-11 13:37:52,301 - ebanking -INFO - Login test passed
+2020-08-11 13:38:01,495 - ebanking -INFO - URL is opened
+2020-08-11 13:38:01,533 - ebanking -INFO - Browser is maximized
+2020-08-11 13:38:01,624 - ebanking -INFO - Entered username
+2020-08-11 13:38:01,682 - ebanking -INFO - Entered password
+2020-08-11 13:38:02,174 - ebanking -INFO - Submit is clicked
+2020-08-11 13:38:03,183 - ebanking -INFO - Page Title is correct
+2020-08-11 13:38:03,185 - ebanking -INFO - Login test passed
+2020-08-11 14:28:13,279 - ebanking -INFO - URL is opened
+2020-08-11 14:28:15,439 - ebanking -INFO - Browser is maximized
+2020-08-11 14:28:15,513 - ebanking -INFO - Privacy Error present
+2020-08-11 14:28:15,646 - ebanking -INFO - Advanced is clicked
+2020-08-11 14:28:19,701 - ebanking -INFO - Proceed is clicked
+2020-08-11 14:28:19,871 - ebanking -INFO - Entered username
+2020-08-11 14:28:20,013 - ebanking -INFO - Entered password
+2020-08-11 14:28:21,574 - ebanking -INFO - Submit is clicked
+2020-08-11 14:28:22,592 - ebanking -INFO - Page Title is correct
+2020-08-11 14:28:22,599 - ebanking -INFO - Login test passed
+2020-08-11 14:34:24,693 - ebanking -INFO - URL is opened
+2020-08-11 14:34:26,846 - ebanking -INFO - Browser is maximized
+2020-08-11 14:34:26,907 - ebanking -INFO - Privacy Error present
+2020-08-11 14:34:27,050 - ebanking -INFO - Advanced is clicked
+2020-08-11 14:34:28,586 - ebanking -INFO - Proceed is clicked
+2020-08-11 14:34:29,425 - ebanking -INFO - Entered username
+2020-08-11 14:34:29,549 - ebanking -INFO - Entered password
+2020-08-11 14:34:30,229 - ebanking -INFO - Submit is clicked
+2020-08-11 14:34:31,264 - ebanking -INFO - Page Title is correct
+2020-08-11 14:34:31,267 - ebanking -INFO - Login test passed
+2020-08-11 16:26:13,732 - ebanking -INFO - URL is opened
+2020-08-11 16:26:15,877 - ebanking -INFO - Browser is maximized
+2020-08-11 16:26:15,953 - ebanking -INFO - Privacy Error present
+2020-08-11 16:26:16,082 - ebanking -INFO - Advanced is clicked
+2020-08-11 16:26:18,975 - ebanking -INFO - Proceed is clicked
+2020-08-11 16:26:19,879 - ebanking -INFO - Entered username
+2020-08-11 16:26:20,016 - ebanking -INFO - Entered password
+2020-08-11 16:26:20,887 - ebanking -INFO - Submit is clicked
+2020-08-11 16:27:15,675 - ebanking -INFO - URL is opened
+2020-08-11 16:27:17,824 - ebanking -INFO - Browser is maximized
+2020-08-11 16:27:17,896 - ebanking -INFO - Privacy Error present
+2020-08-11 16:27:18,013 - ebanking -INFO - Advanced is clicked
+2020-08-11 16:27:18,176 - ebanking -INFO - Proceed is clicked
+2020-08-11 16:27:22,693 - ebanking -INFO - Entered username
+2020-08-11 16:27:22,856 - ebanking -INFO - Entered password
+2020-08-11 16:27:24,152 - ebanking -INFO - Submit is clicked
+2020-08-17 21:34:08,089 - ebanking -INFO - URL is opened
+2020-08-17 21:34:10,280 - ebanking -INFO - Browser is maximized
+2020-08-17 21:34:10,365 - ebanking -INFO - Privacy Error present
+2020-08-17 21:34:10,500 - ebanking -INFO - Advanced is clicked
+2020-08-17 21:34:12,701 - ebanking -INFO - Proceed is clicked
+2020-08-17 21:34:12,905 - ebanking -INFO - Entered username
+2020-08-17 21:34:13,124 - ebanking -INFO - Entered password
+2020-08-17 21:34:13,831 - ebanking -INFO - Submit is clicked
+2020-08-17 21:50:43,388 - ebanking -INFO - URL is opened
+2020-08-17 21:50:45,537 - ebanking -INFO - Browser is maximized
+2020-08-17 21:50:45,596 - ebanking -INFO - Privacy Error present
+2020-08-17 21:50:45,710 - ebanking -INFO - Advanced is clicked
+2020-08-17 21:50:47,243 - ebanking -INFO - Proceed is clicked
+2020-08-17 21:50:47,423 - ebanking -INFO - username is provided
+2020-08-17 21:50:47,535 - ebanking -INFO - password is provided
+2020-08-17 21:50:48,457 - ebanking -INFO - Submit is clicked
+2020-08-17 21:50:51,520 - ebanking -INFO - Login passed
+2020-08-17 21:50:56,670 - ebanking -INFO - URL is opened
+2020-08-17 21:50:56,679 - ebanking -INFO - Browser is maximized
+2020-08-17 21:50:56,797 - ebanking -INFO - username is provided
+2020-08-17 21:50:56,894 - ebanking -INFO - password is provided
+2020-08-17 21:50:57,179 - ebanking -INFO - Submit is clicked
+2020-08-17 21:51:01,014 - ebanking -INFO - URL is opened
+2020-08-17 21:51:01,026 - ebanking -INFO - Browser is maximized
+2020-08-17 21:51:01,194 - ebanking -INFO - username is provided
+2020-08-17 21:51:01,647 - ebanking -INFO - password is provided
+2020-08-17 21:51:01,922 - ebanking -INFO - Submit is clicked
+2020-08-17 21:51:05,758 - ebanking -INFO - URL is opened
+2020-08-17 21:51:05,765 - ebanking -INFO - Browser is maximized
+2020-08-17 21:51:05,847 - ebanking -INFO - username is provided
+2020-08-17 21:51:05,898 - ebanking -INFO - password is provided
+2020-08-17 21:51:06,812 - ebanking -INFO - Submit is clicked
+2020-08-17 21:51:09,854 - ebanking -INFO - Login passed
+2020-08-17 21:51:14,784 - ebanking -INFO - URL is opened
+2020-08-17 21:51:14,806 - ebanking -INFO - Browser is maximized
+2020-08-17 21:51:14,919 - ebanking -INFO - username is provided
+2020-08-17 21:51:15,013 - ebanking -INFO - password is provided
+2020-08-17 21:51:15,316 - ebanking -INFO - Submit is clicked
+2020-08-17 22:48:40,279 - ebanking -INFO - Privacy Error present
+2020-08-17 22:48:40,412 - ebanking -INFO - Advanced is clicked
+2020-08-17 22:48:42,426 - ebanking -INFO - Proceed is clicked
+2020-08-17 22:48:42,570 - ebanking -INFO - Username is provided
+2020-08-17 22:48:42,747 - ebanking -INFO - Password is provided
+2020-08-17 22:48:43,432 - ebanking -INFO - Submit is clicked
+2020-08-17 22:49:50,295 - ebanking -INFO - Privacy Error present
+2020-08-17 22:49:50,402 - ebanking -INFO - Advanced is clicked
+2020-08-17 22:49:51,955 - ebanking -INFO - Proceed is clicked
+2020-08-17 22:49:52,759 - ebanking -INFO - Username is provided
+2020-08-17 22:49:52,877 - ebanking -INFO - Password is provided
+2020-08-17 22:49:53,569 - ebanking -INFO - Submit is clicked
+2020-08-17 22:49:57,777 - ebanking -INFO - Add Customer Page
+2020-08-17 22:50:02,356 - ebanking -INFO - Customer details entered
+2020-08-17 22:50:05,444 - ebanking -INFO - Submit clicked
+2020-08-17 22:50:05,462 - ebanking -INFO - Test Case Failed
+2020-08-17 22:57:18,521 - ebanking -INFO - Privacy Error present
+2020-08-17 22:57:18,651 - ebanking -INFO - Advanced is clicked
+2020-08-17 22:57:20,807 - ebanking -INFO - Proceed is clicked
+2020-08-17 22:57:20,957 - ebanking -INFO - Username is provided
+2020-08-17 22:57:21,116 - ebanking -INFO - Password is provided
+2020-08-17 22:57:21,763 - ebanking -INFO - Submit is clicked
+2020-08-17 22:57:25,788 - ebanking -INFO - Add Customer Page
+2020-08-17 22:58:41,968 - ebanking -INFO - Privacy Error present
+2020-08-17 22:58:42,020 - ebanking -INFO - Advanced is clicked
+2020-08-17 22:58:43,196 - ebanking -INFO - Proceed is clicked
+2020-08-17 22:58:43,316 - ebanking -INFO - Username is provided
+2020-08-17 22:58:43,762 - ebanking -INFO - Password is provided
+2020-08-17 22:58:44,309 - ebanking -INFO - Submit is clicked
+2020-08-17 22:58:51,797 - ebanking -INFO - Add Customer Page
+2020-08-17 22:58:56,044 - ebanking -INFO - Customer details entered
+2020-08-17 22:59:59,394 - ebanking -INFO - Privacy Error present
+2020-08-17 22:59:59,503 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:00:01,071 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:00:02,148 - ebanking -INFO - Username is provided
+2020-08-17 23:00:02,277 - ebanking -INFO - Password is provided
+2020-08-17 23:00:03,085 - ebanking -INFO - Submit is clicked
+2020-08-17 23:00:10,133 - ebanking -INFO - Add Customer Page
+2020-08-17 23:00:17,774 - ebanking -INFO - Customer details entered
+2020-08-17 23:00:23,985 - ebanking -INFO - Submit clicked
+2020-08-17 23:00:50,686 - ebanking -INFO - Privacy Error present
+2020-08-17 23:00:50,787 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:00:52,965 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:00:53,184 - ebanking -INFO - Username is provided
+2020-08-17 23:00:53,300 - ebanking -INFO - Password is provided
+2020-08-17 23:00:53,894 - ebanking -INFO - Submit is clicked
+2020-08-17 23:01:00,944 - ebanking -INFO - Add Customer Page
+2020-08-17 23:01:09,010 - ebanking -INFO - Customer details entered
+2020-08-17 23:01:17,085 - ebanking -INFO - Submit clicked
+2020-08-17 23:01:17,170 - ebanking -INFO - Test Case Passed
+2020-08-17 23:03:55,036 - ebanking -INFO - URL is opened
+2020-08-17 23:03:55,097 - ebanking -INFO - Privacy Error present
+2020-08-17 23:03:55,200 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:03:56,880 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:03:57,418 - ebanking -INFO - Entered username
+2020-08-17 23:03:57,548 - ebanking -INFO - Entered password
+2020-08-17 23:03:58,209 - ebanking -INFO - Submit is clicked
+2020-08-17 23:04:08,526 - ebanking -INFO - URL is opened
+2020-08-17 23:04:08,538 - ebanking -INFO - Privacy Error present
+2020-08-17 23:04:08,628 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:04:10,150 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:04:10,692 - ebanking -INFO - username is provided
+2020-08-17 23:04:10,799 - ebanking -INFO - password is provided
+2020-08-17 23:04:11,468 - ebanking -INFO - Submit is clicked
+2020-08-17 23:04:14,528 - ebanking -INFO - Login passed
+2020-08-17 23:04:19,496 - ebanking -INFO - URL is opened
+2020-08-17 23:04:20,022 - ebanking -INFO - username is provided
+2020-08-17 23:04:20,123 - ebanking -INFO - password is provided
+2020-08-17 23:04:20,463 - ebanking -INFO - Submit is clicked
+2020-08-17 23:04:24,348 - ebanking -INFO - URL is opened
+2020-08-17 23:04:24,845 - ebanking -INFO - username is provided
+2020-08-17 23:04:24,949 - ebanking -INFO - password is provided
+2020-08-17 23:04:25,310 - ebanking -INFO - Submit is clicked
+2020-08-17 23:04:29,332 - ebanking -INFO - URL is opened
+2020-08-17 23:04:29,848 - ebanking -INFO - username is provided
+2020-08-17 23:04:29,952 - ebanking -INFO - password is provided
+2020-08-17 23:04:30,674 - ebanking -INFO - Submit is clicked
+2020-08-17 23:04:33,715 - ebanking -INFO - Login passed
+2020-08-17 23:04:39,350 - ebanking -INFO - URL is opened
+2020-08-17 23:04:39,537 - ebanking -INFO - username is provided
+2020-08-17 23:04:39,995 - ebanking -INFO - password is provided
+2020-08-17 23:04:40,343 - ebanking -INFO - Submit is clicked
+2020-08-17 23:04:51,380 - ebanking -INFO - Privacy Error present
+2020-08-17 23:04:51,478 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:04:53,070 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:04:53,795 - ebanking -INFO - Username is provided
+2020-08-17 23:04:53,915 - ebanking -INFO - Password is provided
+2020-08-17 23:04:54,599 - ebanking -INFO - Submit is clicked
+2020-08-17 23:05:01,852 - ebanking -INFO - Add Customer Page
+2020-08-17 23:05:09,509 - ebanking -INFO - Customer details entered
+2020-08-17 23:05:16,895 - ebanking -INFO - Submit clicked
+2020-08-17 23:05:16,944 - ebanking -INFO - Test Case Passed
+2020-08-17 23:07:51,132 - ebanking -INFO - URL is opened
+2020-08-17 23:07:51,185 - ebanking -INFO - Privacy Error present
+2020-08-17 23:07:51,281 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:07:54,380 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:07:54,531 - ebanking -INFO - username is provided
+2020-08-17 23:07:54,689 - ebanking -INFO - password is provided
+2020-08-17 23:07:55,021 - ebanking -INFO - Submit is clicked
+2020-08-17 23:07:59,044 - ebanking -INFO - URL is opened
+2020-08-17 23:07:59,602 - ebanking -INFO - username is provided
+2020-08-17 23:08:00,170 - ebanking -INFO - password is provided
+2020-08-17 23:08:00,917 - ebanking -INFO - Submit is clicked
+2020-08-17 23:08:04,830 - ebanking -INFO - URL is opened
+2020-08-17 23:08:05,293 - ebanking -INFO - username is provided
+2020-08-17 23:08:05,424 - ebanking -INFO - password is provided
+2020-08-17 23:08:05,725 - ebanking -INFO - Submit is clicked
+2020-08-17 23:08:16,562 - ebanking -INFO - URL is opened
+2020-08-17 23:08:16,575 - ebanking -INFO - Privacy Error present
+2020-08-17 23:08:16,688 - ebanking -INFO - Advanced is clicked
+2020-08-17 23:08:18,191 - ebanking -INFO - Proceed is clicked
+2020-08-17 23:08:18,925 - ebanking -INFO - Entered username
+2020-08-17 23:08:19,073 - ebanking -INFO - Entered password
+2020-08-17 23:08:19,750 - ebanking -INFO - Submit is clicked
+2020-08-17 23:08:20,781 - ebanking -INFO - Page Title is correct
+2020-08-17 23:08:20,782 - ebanking -INFO - Login test passed
+2020-08-17 23:22:11,284 - ebanking -INFO - URL is opened
+2020-08-17 23:23:06,429 - ebanking -INFO - URL is opened
+2020-08-17 23:25:04,129 - ebanking -INFO - URL is opened
+2020-08-17 23:25:06,385 - ebanking -INFO - Entered username
+2020-08-17 23:25:06,587 - ebanking -INFO - Entered password
+2020-08-17 23:25:07,205 - ebanking -INFO - Submit is clicked
+2020-08-17 23:25:08,238 - ebanking -INFO - Page Title is correct
+2020-08-17 23:25:08,241 - ebanking -INFO - Login test passed
+2020-08-17 23:25:59,387 - ebanking -INFO - URL is opened
+2020-08-17 23:26:02,163 - ebanking -INFO - Entered username
+2020-08-17 23:26:02,276 - ebanking -INFO - Entered password
+2020-08-17 23:26:02,924 - ebanking -INFO - Submit is clicked
+2020-08-17 23:26:03,957 - ebanking -INFO - Page Title is correct
+2020-08-17 23:26:03,960 - ebanking -INFO - Login test passed
+2020-08-17 23:26:12,045 - ebanking -INFO - URL is opened
+2020-08-17 23:26:14,214 - ebanking -INFO - username is provided
+2020-08-17 23:26:14,404 - ebanking -INFO - password is provided
+2020-08-17 23:26:15,563 - ebanking -INFO - Submit is clicked
+2020-08-17 23:26:18,631 - ebanking -INFO - Login passed
+2020-08-17 23:26:23,530 - ebanking -INFO - URL is opened
+2020-08-17 23:26:23,694 - ebanking -INFO - username is provided
+2020-08-17 23:26:24,091 - ebanking -INFO - password is provided
+2020-08-17 23:26:24,415 - ebanking -INFO - Submit is clicked
+2020-08-17 23:26:28,340 - ebanking -INFO - URL is opened
+2020-08-17 23:26:28,513 - ebanking -INFO - username is provided
+2020-08-17 23:26:28,909 - ebanking -INFO - password is provided
+2020-08-17 23:26:29,222 - ebanking -INFO - Submit is clicked
+2020-08-17 23:26:33,174 - ebanking -INFO - URL is opened
+2020-08-17 23:26:33,676 - ebanking -INFO - username is provided
+2020-08-17 23:26:33,773 - ebanking -INFO - password is provided
+2020-08-17 23:26:35,376 - ebanking -INFO - Submit is clicked
+2020-08-17 23:26:38,415 - ebanking -INFO - Login passed
+2020-08-17 23:26:43,451 - ebanking -INFO - URL is opened
+2020-08-17 23:26:43,963 - ebanking -INFO - username is provided
+2020-08-17 23:26:44,098 - ebanking -INFO - password is provided
+2020-08-17 23:26:44,431 - ebanking -INFO - Submit is clicked
+2020-08-17 23:26:57,452 - ebanking -INFO - Username is provided
+2020-08-17 23:26:57,651 - ebanking -INFO - Password is provided
+2020-08-17 23:26:58,315 - ebanking -INFO - Submit is clicked
+2020-08-17 23:27:05,393 - ebanking -INFO - Add Customer Page
+2020-08-17 23:27:13,113 - ebanking -INFO - Customer details entered
+2020-08-17 23:27:20,018 - ebanking -INFO - Submit clicked
+2020-08-17 23:29:33,086 - ebanking -INFO - URL is opened
+2020-08-17 23:29:35,515 - ebanking -INFO - username is provided
+2020-08-17 23:29:35,627 - ebanking -INFO - password is provided
+2020-08-17 23:29:35,952 - ebanking -INFO - Submit is clicked
+2020-08-17 23:29:39,941 - ebanking -INFO - URL is opened
+2020-08-17 23:29:40,376 - ebanking -INFO - username is provided
+2020-08-17 23:29:40,486 - ebanking -INFO - password is provided
+2020-08-17 23:29:40,793 - ebanking -INFO - Submit is clicked
+2020-08-17 23:29:44,789 - ebanking -INFO - URL is opened
+2020-08-17 23:29:44,999 - ebanking -INFO - username is provided
+2020-08-17 23:29:45,426 - ebanking -INFO - password is provided
+2020-08-17 23:29:45,712 - ebanking -INFO - Submit is clicked
+2020-08-17 23:29:58,831 - ebanking -INFO - Username is provided
+2020-08-17 23:29:58,989 - ebanking -INFO - Password is provided
+2020-08-17 23:30:00,074 - ebanking -INFO - Submit is clicked
+2020-08-17 23:30:07,142 - ebanking -INFO - Add Customer Page
+2020-08-17 23:30:14,831 - ebanking -INFO - Customer details entered
+2020-08-17 23:30:22,119 - ebanking -INFO - Submit clicked
+2020-08-17 23:30:22,170 - ebanking -INFO - Test Case Passed
+2020-08-18 18:29:08,307 - ebanking -INFO - URL is opened
+2020-08-18 18:29:10,881 - ebanking -INFO - Entered username
+2020-08-18 18:29:11,010 - ebanking -INFO - Entered password
+2020-08-18 18:29:11,646 - ebanking -INFO - Submit is clicked
+2020-08-18 18:29:12,680 - ebanking -INFO - Page Title is correct
+2020-08-18 18:29:12,685 - ebanking -INFO - Login test passed
+2020-08-18 18:29:22,861 - ebanking -INFO - Username is provided
+2020-08-18 18:29:22,977 - ebanking -INFO - Password is provided
+2020-08-18 18:29:24,098 - ebanking -INFO - Submit is clicked
+2020-08-18 18:29:31,168 - ebanking -INFO - Add Customer Page
+2020-08-18 18:29:38,907 - ebanking -INFO - Customer details entered
+2020-08-18 18:29:45,871 - ebanking -INFO - Submit clicked
+2020-08-18 18:35:36,873 - ebanking -INFO - URL is opened
+2020-08-18 18:35:39,202 - ebanking -INFO - Entered username
+2020-08-18 18:35:39,333 - ebanking -INFO - Entered password
+2020-08-18 18:35:40,009 - ebanking -INFO - Submit is clicked
+2020-08-18 18:35:41,042 - ebanking -INFO - Page Title is correct
+2020-08-18 18:35:41,046 - ebanking -INFO - Login test passed
+2020-08-18 18:35:51,306 - ebanking -INFO - Username is provided
+2020-08-18 18:35:51,472 - ebanking -INFO - Password is provided
+2020-08-18 18:35:52,566 - ebanking -INFO - Submit is clicked
+2020-08-18 18:35:59,690 - ebanking -INFO - Add Customer Page
+2020-08-18 18:36:07,432 - ebanking -INFO - Customer details entered
+2020-08-18 18:36:14,757 - ebanking -INFO - Submit clicked
+2020-08-18 18:36:14,808 - ebanking -INFO - Test Case Passed
+2020-08-18 19:00:38,718 - ebanking -INFO - URL is opened
+2020-08-18 19:00:41,308 - ebanking -INFO - Entered username
+2020-08-18 19:00:41,419 - ebanking -INFO - Entered password
+2020-08-18 19:00:42,489 - ebanking -INFO - Submit is clicked
+2020-08-18 19:00:43,520 - ebanking -INFO - Page Title is correct
+2020-08-18 19:00:43,524 - ebanking -INFO - Login test passed
+2020-08-18 19:00:54,099 - ebanking -INFO - Username is provided
+2020-08-18 19:00:54,210 - ebanking -INFO - Password is provided
+2020-08-18 19:00:54,817 - ebanking -INFO - Submit is clicked
+2020-08-18 19:01:01,893 - ebanking -INFO - Add Customer Page
+2020-08-18 19:01:09,533 - ebanking -INFO - Customer details entered
+2020-08-18 19:01:17,047 - ebanking -INFO - Submit clicked
+2020-08-18 19:01:17,084 - ebanking -INFO - Test Case Passed
+2020-08-18 19:12:07,044 - ebanking -INFO - URL is opened
+2020-08-18 19:12:09,458 - ebanking -INFO - Entered username
+2020-08-18 19:12:09,623 - ebanking -INFO - Entered password
+2020-08-18 19:12:10,300 - ebanking -INFO - Submit is clicked
+2020-08-18 19:12:11,342 - ebanking -INFO - Page Title is correct
+2020-08-18 19:12:11,346 - ebanking -INFO - Login test passed
+2020-08-18 19:12:21,401 - ebanking -INFO - Username is provided
+2020-08-18 19:12:21,517 - ebanking -INFO - Password is provided
+2020-08-18 19:12:22,167 - ebanking -INFO - Submit is clicked
+2020-08-18 19:12:29,280 - ebanking -INFO - Add Customer Page
+2020-08-18 19:12:36,991 - ebanking -INFO - Customer details entered
+2020-08-18 19:12:44,320 - ebanking -INFO - Submit clicked
+2020-08-18 19:12:44,363 - ebanking -INFO - Test Case Passed
+2020-08-18 22:26:50,164 - ebanking -INFO - URL is opened
+2020-08-18 22:26:52,346 - ebanking -INFO - Entered username
+2020-08-18 22:26:52,451 - ebanking -INFO - Entered password
+2020-08-18 22:26:53,053 - ebanking -INFO - Submit is clicked
+2020-08-18 22:26:54,080 - ebanking -INFO - Page Title is correct
+2020-08-18 22:26:54,084 - ebanking -INFO - Login test passed
+2020-08-18 22:27:02,877 - ebanking -INFO - Username is provided
+2020-08-18 22:27:02,993 - ebanking -INFO - Password is provided
+2020-08-18 22:27:03,574 - ebanking -INFO - Submit is clicked
+2020-08-18 22:27:10,647 - ebanking -INFO - Add Customer Page
+2020-08-18 22:27:18,249 - ebanking -INFO - Customer details entered
+2020-08-18 22:27:26,115 - ebanking -INFO - Submit clicked
+2020-08-18 22:27:26,154 - ebanking -INFO - Test Case Passed
+2020-08-18 22:50:07,528 - ebanking -INFO - URL is opened
+2020-08-18 22:50:09,675 - ebanking -INFO - Entered username
+2020-08-18 22:50:09,785 - ebanking -INFO - Entered password
+2020-08-18 22:50:10,387 - ebanking -INFO - Submit is clicked
+2020-08-18 22:50:11,419 - ebanking -INFO - Page Title is correct
+2020-08-18 22:50:11,422 - ebanking -INFO - Login test passed
+2020-08-18 22:50:20,913 - ebanking -INFO - Username is provided
+2020-08-18 22:50:21,016 - ebanking -INFO - Password is provided
+2020-08-18 22:50:21,698 - ebanking -INFO - Submit is clicked
+2020-08-18 22:50:28,757 - ebanking -INFO - Add Customer Page
+2020-08-18 22:50:36,413 - ebanking -INFO - Customer details entered
+2020-08-18 22:50:43,763 - ebanking -INFO - Submit clicked
+2020-08-18 22:50:43,831 - ebanking -INFO - Test Case Passed
+2020-10-08 13:34:59,121 - ebanking -INFO - URL is opened
+2020-10-08 13:35:02,350 - ebanking -INFO - Entered username
+2020-10-08 13:35:02,465 - ebanking -INFO - Entered password
+2020-10-08 13:35:02,996 - ebanking -INFO - Submit is clicked
+2020-10-08 13:35:14,195 - ebanking -INFO - Username is provided
+2020-10-08 13:35:14,342 - ebanking -INFO - Password is provided
+2020-10-08 13:35:15,147 - ebanking -INFO - Submit is clicked
